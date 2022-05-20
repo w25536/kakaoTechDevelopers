@@ -1,3 +1,5 @@
+package src.main.kakao2022.Q1;
+
 import java.util.*;
 
 public class Main {
